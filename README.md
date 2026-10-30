@@ -12,8 +12,8 @@ This guide is designed to help recruiters, academic colleagues, technical collab
 
 Rather than a traditional linear path, my professional trajectory is best understood as three intersecting domains:
 
-- **Enterprise Technology & Innovation (1999–Present):** Core engine development at Microsoft (SQL Server world-record performance team) and Oracle (SQL/XML infrastructure, $3B+ revenue platform enhancement), alongside 15+ U.S. patents and SQL Language Design Committee contributions.
-- **Startups, Non-Profits & Leadership:** Fractional CTO, co-founder, and advisor roles across high-growth startups (Fulmo, Qwykr) and impactful non-profits (Digital Green, presented to Bill Gates).
+- **Technology & Innovation in the corporate sector (1999–Present):** Core engine development at Microsoft (SQL Server world-record performance team) and Oracle (SQL/XML infrastructure, $3B+ revenue platform enhancement), alongside 15+ U.S. patents and SQL Language Design Committee contributions. In 2019, I transitioned to agripreneurship and technology entrepreneurship alongside a parallel career as an author/writer, researcher and speaker, but have been back in the corporate sector since 2026.
+- **Startups, Non-Profits & Leadership:** Fractional CTO, co-founder, and advisor roles across high-growth startups (Fulmo, Qwykr) and impactful non-profits (Digital Green, presented to Bill Gates). 
 - **Academia, Pedagogy & Thought Leadership:** Visiting Faculty at PES University, former Adjunct Professor at Hartnell College, author of 10+ poetry volumes, textbook contributor, and creator of *La Gravaj Teoriaj Projektoj*.
 
 ---
