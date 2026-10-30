@@ -30,7 +30,7 @@ Start here for a high-level overview. It frames how my technical foundation, nea
 
 #### **Featured & Publications Sections**
 - **Patents & Standards:** 15+ patents on XML/SQL infrastructure and developer tools, plus SQL/XML standard specifications.
-- **Peer-Reviewed Research:** Landmark database papers in **VLDB** and **ICDE**, alongside IEEE Best Paper awards in distributed real-time systems.
+- **Peer-Reviewed Research:** Advanced research in data technologies. Papers in **VLDB** and **ICDE**, alongside an IEEE Best Paper award in distributed real-time systems.
 - **Books & Articles:** Textbook contributions to *Strategic Management* and *Essence of Leadership*, poetry volumes, and columns.
 
 ---
